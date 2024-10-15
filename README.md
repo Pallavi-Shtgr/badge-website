@@ -1,6 +1,5 @@
 <div align="center"> <h1> Badge Website </h1> <img src="https://github.com/user-attachments/assets/6d865777-b676-4f61-8843-d73bf2f6c07c" href="https://badge-website.netlify.app/" alt="Badge" height="200" width="200"> <p align="center"> <a href="https://badge-website.netlify.app/" target="blank">View Demo</a> · <a href="https://github.com/rajatuiwebdev/badge-website/issues/new/choose">Report Bug</a> · <a href="https://github.com/rajatuiwebdev/badge-website/pulls">Request Feature</a> </p> </div>
 
-
 Demo
 Visit our website via the link: Badge Website
 

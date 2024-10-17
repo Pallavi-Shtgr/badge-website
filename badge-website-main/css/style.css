@@ -255,3 +255,22 @@ body.dark-theme .share-button.linkedin {
 body.dark-theme footer {
     background-color: #1e1e1e;
 }
+
+/* Light Theme Styles (default) */
+body {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Dark Theme Styles */
+body.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+/* Adjust other elements accordingly */
+body.dark-theme header {
+    background-color: #1e1e1e;
+}
+
+/* Add more styles as needed */
